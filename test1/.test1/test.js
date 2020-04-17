@@ -1,0 +1,1 @@
+var x = "Xin chao cac ban";
